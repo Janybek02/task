@@ -1,0 +1,10 @@
+@import "./page/page.css";
+@import url("https://fonts.googleapis.com/css2?family=Nunito&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  margin: 10px;
+}/*# sourceMappingURL=reset.css.map */
